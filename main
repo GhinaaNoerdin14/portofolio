@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <title>Last Project</title>
+    <style>
+      .paragraph {
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Portofolio</h1>
+    <h2>Personal Information</h2>
+    <ul>
+      <li>
+        <p class="paragraph">Name = Shofiyya</p>
+      </li>
+      <li>
+        <p class="paragraph">Birthday =Jakarta, ...</p>
+      </li>
+    </ul>
+    <h2>Gallery</h2>
+    <section>
+      <div>
+        <h3>Scratch</h3>
+        <img src="https://s.ecrater.com/stores/441079/5b9dd06b843c6_441079b.jpg" height="100">
+        <ul class="paragraph">
+          <li>
+            <a target="_blank" href="URL"> Project 1 - Solar System
+              <br><img src="https://th.bing.com/th/id/R.b6e4bce09b9443505f04bb0cd709baa8?rik=YXyCAHnWPDkB%2bw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2ff%2f9%2f721581-vertical-solar-system-wallpaper-2000x1451-for-android.jpg&ehk=%2fIEBATzO5trlCawL0PfFKwFMTGN4z2wopQ9YG57dpEI%3d&risl=&pid=ImgRaw&r=0" height="100">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="URL"> Project 1 - Area and Perimeter
+              <br><img src="https://s.ecrater.com/stores/441079/5b9dd06b843c6_441079b.jpg" height="100">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <h3>Thunkable</h3>
+    <h3>Tynker</h3>
+    <h3>Edublock</h3>
+  </body>
+</html>
